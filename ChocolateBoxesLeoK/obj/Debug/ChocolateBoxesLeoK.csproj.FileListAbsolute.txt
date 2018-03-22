@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\ChocolateBoxesLeoK\ChocolateBoxesLeoK\bin\Debug\ChocolateBoxesLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\ChocolateBoxesLeoK\ChocolateBoxesLeoK\bin\Debug\ChocolateBoxesLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\ChocolateBoxesLeoK\ChocolateBoxesLeoK\bin\Debug\ChocolateBoxesLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\ChocolateBoxesLeoK\ChocolateBoxesLeoK\obj\Debug\ChocolateBoxesLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\ChocolateBoxesLeoK\ChocolateBoxesLeoK\obj\Debug\ChocolateBoxesLeoK.frmChocolateBoxesLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\ChocolateBoxesLeoK\ChocolateBoxesLeoK\obj\Debug\ChocolateBoxesLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\ChocolateBoxesLeoK\ChocolateBoxesLeoK\obj\Debug\ChocolateBoxesLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\ChocolateBoxesLeoK\ChocolateBoxesLeoK\obj\Debug\ChocolateBoxesLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\ChocolateBoxesLeoK\ChocolateBoxesLeoK\obj\Debug\ChocolateBoxesLeoK.pdb
